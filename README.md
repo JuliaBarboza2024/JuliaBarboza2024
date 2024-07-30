@@ -1,16 +1,17 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 🖤
 
-<!--
-**JuliaBarboza2024/JuliaBarboza2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Julia Barboza Grosso
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem javaSCRipt
+- Utilizo esse espaço paea minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### Você entrar em contato comigo 📪
+
+ 00001088982736SP@Al.educacao.sp.gov.br
+
+ julia.barboza.10441
+
+
+![]()
+https://media1.tenor.com/m/20V9iZDVCQ0AAAAC/shirley-temple.gif
